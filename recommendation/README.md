@@ -1,0 +1,1 @@
+java -cp recommendation-1.0-SNAPSHOT.jar  com.jhe.app.App
